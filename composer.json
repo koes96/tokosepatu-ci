@@ -1,0 +1,13 @@
+{
+    "name": "dani-ci/tokosepatu",
+    "description": "Portofolio Toko Online by Dani",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Dani",
+            "email": "dannykoes44@gmail.com"
+        }
+    ],
+    "require": {}
+}
